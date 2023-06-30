@@ -1,4 +1,4 @@
-module ask-gpt
+module github.com/IceCurrent/ChatGPT-on-terminal
 
 go 1.20
 
