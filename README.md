@@ -14,6 +14,6 @@ A simple project in Golang that brings chat GPT right onto the terminal.
 
 ## Installation 
 ```
-go get https://github.com/IceCurrent/ChatGPT-on-terminal
+go install https://github.com/IceCurrent/ChatGPT-on-terminal
 ```
 
