@@ -12,8 +12,14 @@ A simple project in Golang that brings chat GPT right onto the terminal.
   go get -u github.com/spf13/cobra@latest
   ```
 
-## Installation 
-```
-go install https://github.com/IceCurrent/ChatGPT-on-terminal
-```
+## How to use 
+* Clone this repository and navigate to it's root directory
+* Build and run main.go
+  ```
+  go run main.go
+  ```
+* You're all set, start using the tool by typing
+  ```
+  ask-gpt askgpt <enter password> <enter a prompt>
+  ``` 
 
