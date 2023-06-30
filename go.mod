@@ -3,7 +3,6 @@ module github.com/IceCurrent/ChatGPT-on-terminal
 go 1.20
 
 require (
-
 	//github.com/joho/godotenv v1.5.1 // indirect
 	github.com/sashabaranov/go-openai v1.12.0
 	github.com/spf13/cobra v1.7.0
