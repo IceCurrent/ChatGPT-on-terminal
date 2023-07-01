@@ -2,6 +2,7 @@
 A simple project in Golang that brings chat GPT right onto the terminal.
 
 ## How to use 
+* You should have [go compiler](https://go.dev/doc/install) on your system
 * Clone this repository and navigate to its root directory
 
 ### For MacOS
